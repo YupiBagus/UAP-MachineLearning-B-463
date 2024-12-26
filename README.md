@@ -31,9 +31,9 @@ Lalu run dengan Mengetikkan perintah :
 
 # Local Web Deployment
 ## Tampilan HomePage
-![Alt Text](assets/Screenshot (189).png)
+![Alt Text](./assets/Screenshot (189).png)
 ## Tampilan HomePage Setelah Upload Image
-![Alt Text](assets/Screenshot (190).png)
+![Alt Text](./assets/Screenshot (190).png)
 ## Tampilan Prediction Result
-![Alt Text](assets/Screenshot (191).png)
+![Alt Text](./assets/Screenshot (191).png)
 
