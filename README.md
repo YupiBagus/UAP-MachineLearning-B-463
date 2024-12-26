@@ -35,7 +35,7 @@ g/install-pdm.py -UseBasicParsing).Content | python -'
 
 Model  
 ResNet50V2_cv_gender_classification  
-VGG16_cv_gender_classification2  
+VGG16_cv_gender_classification  
 https://drive.google.com/drive/folders/1AYe7Tv7Suudr8VyQzUzoaehCpG5k7pDJ?usp=sharing
 
 Lalu run dengan Mengetikkan perintah :
