@@ -31,9 +31,12 @@ Lalu run dengan Mengetikkan perintah :
 
 # Local Web Deployment
 ## Tampilan HomePage
-![Alt Text](./assets/Screenshot (189).png)
+![My Screenshot (189)](UAP-MachineLearning-B-463/assets
+/Screenshot (189).png)
 ## Tampilan HomePage Setelah Upload Image
-![Alt Text](./assets/Screenshot (190).png)
+![Alt Text](UAP-MachineLearning-B-463/assets
+/Screenshot (190).png)
 ## Tampilan Prediction Result
-![Alt Text](./assets/Screenshot (191).png)
+![Alt Text](UAP-MachineLearning-B-463/assets
+/Screenshot (191).png)
 
