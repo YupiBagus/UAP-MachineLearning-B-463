@@ -13,8 +13,7 @@ dengan jumlah data train 3491 data citra
 ### Persiapan
 Python version>= 3.10  
 PDM  
-Streamlit  ![Screenshot 2024-12-26 114052](https://github.com/user-attachments/assets/2d99b8da-93a4-4cbf-9feb-46cd94bef324)
-
+Streamlit 
 Model H5  
 VScode  
 ### Langkah-langkah
