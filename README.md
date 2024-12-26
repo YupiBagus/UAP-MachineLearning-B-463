@@ -32,6 +32,10 @@ g/install-pdm.py -UseBasicParsing).Content | python -'
 5. Install paket yang di butuhkan
    'pdm add tensorflow'
    'pdm add numpy'
+
+Model 
+https://drive.google.com/drive/folders/1AYe7Tv7Suudr8VyQzUzoaehCpG5k7pDJ?usp=sharing
+
 Lalu run dengan Mengetikkan perintah :
 'pdm run streamlit run app.py'
 
