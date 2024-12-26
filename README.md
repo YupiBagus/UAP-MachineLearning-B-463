@@ -5,6 +5,8 @@ Proyek ini adalah sistem klasifikasi untuk mengenali gender berdasarkan citra ga
 Model yang di gunakan pada proyek ini adalah _ResNet50v2_dan _VGG16_
 
 ## Overview Dataset
+Dataset yang digunakan berasal dari kaggle [Gender Classification](https://www.kaggle.com/datasets/gpiosenka/gender-classification-from-an-image)
+dengan jumlah data train 3491 data citra
 ## Preprocessing dan Modeling
 ## VGG16 Model
 ### Preprocessing
