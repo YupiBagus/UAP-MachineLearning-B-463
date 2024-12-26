@@ -33,7 +33,9 @@ g/install-pdm.py -UseBasicParsing).Content | python -'
    'pdm add tensorflow'
    'pdm add numpy'
 
-Model 
+Model  
+ResNet50V2_cv_gender_classification  
+VGG16_cv_gender_classification2  
 https://drive.google.com/drive/folders/1AYe7Tv7Suudr8VyQzUzoaehCpG5k7pDJ?usp=sharing
 
 Lalu run dengan Mengetikkan perintah :
